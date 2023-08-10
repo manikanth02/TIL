@@ -1,6 +1,6 @@
 ### How to manage different account
 
-Suppose,I have multiple Account on github then How can we switch from one Account to Another Account?Is it possible to push command from different account on a same vscode?
+Suppose,I have multiple Account on github then How can we toggle from one Account to Another Account?Is it possible to push command from different account on a same vscode?
 
 Yes,It is possible to deploy code on Cloud i.e github with mutiple account .
 We have to tell to VSCode currently we are using which accont by command
